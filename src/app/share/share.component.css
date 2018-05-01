@@ -1,0 +1,19 @@
+.imgSmall
+{
+    width: 200px;
+    height: 110px;
+}
+.banner
+{
+    border:1px dashed #909090;
+    padding: 5px;
+ 
+}
+.picBanner
+{
+    float: left;
+}
+.showBanner
+{
+    margin: 4px;
+}
